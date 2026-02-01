@@ -31,21 +31,4 @@ This project demonstrates some non-blocking Arduino code, sensor integration, an
 4. After a delay, the gate closes automatically.
 
 The system is written using `millis()` timers (no `delay()`), allowing smooth and responsive behavior.
-
 ---
-
-## Project Images
-
-> Add your images to the `images/` folder and uncomment the lines below.
-
-<!--
-![Overview](images/01-overview.jpg)
-![Wiring](images/02-wiring.jpg)
-![LCD and Servo](images/03-lcd-servo.jpg)
-![Prototype](images/04-prototype.jpg)
--->
-
----
-
-## File Structure
-
